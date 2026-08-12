@@ -1,6 +1,6 @@
 # Multi-sided Parametric Surface Patches
 ## Overview
-This project presents an overview of multi-sided parametric surface patches in Computer-Aided Geometric Design (CAGD), focusing on their mathematical representation, construction, and qapplications.
+This project presents an overview of multi-sided parametric surface patches in Computer-Aided Geometric Design (CAGD), focusing on their mathematical representation, construction, and applications.
 
 ## Objective
 The objective of this project is to explore recent developments in CAGD related to multi-sided parametric surface patches and understand how parametric techniques such as Bezier and B-spline representations are used in geometric surface modeling.
